@@ -1,7 +1,7 @@
 # yn-notify
 Remake / modification of mythic_notify.
 
-# Example
+# Preview
 https://imgur.com/gallery/Fp9Va6Y
 
 # Tutorial

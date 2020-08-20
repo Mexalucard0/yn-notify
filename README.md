@@ -1,8 +1,8 @@
 # yn-notify
-Remake / modification of mythic_notify. 
+Remake / modification of mythic_notify.
 
 # Example
-Format: ![Click Here](https://imgur.com/gallery/Fp9Va6Y)
+https://imgur.com/gallery/Fp9Va6Y
 
 # Tutorial
 Download the file, put it in `[ESX]` folder,
